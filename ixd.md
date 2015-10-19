@@ -19,8 +19,8 @@ Examples of bad affordance would be:
 
 Under what circumstance should interaction designers take great effort in making that interface learnable? What kinds of knowledge and skills do they need to do this?
 
-
-
-
+If the design problem at hand calls upon a unique interface, interaction designers should make sure that the interface is easily learned. This requires knowledge of design conventions, affordances and overall web usability.
 
 What do you think one of the hardest parts of being an interaction designer is? Do you think this applies to full-stack web developers as well?
+
+One difficult part about being an interaction designer is keeping up-to-date with the way the design industry changes. I think this does apply to full-stack web developers. 
