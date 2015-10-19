@@ -7,7 +7,6 @@
       <title>Input form</title>
  </head>
  <body>
-
   <form action:"/sign-up" method="post">
     <fieldset>
       <legend>Tell us about yourself</legend>
@@ -30,9 +29,10 @@
         <div>
           <label for="mobileNumber">Mobile Number</label>
           <input type="tel" id="mobileNumber" name="mobileNumber" placeholder="Mobile Number">
+        </div>
         <div>
           <label for="bornOn">Date of birth</label>
-          <input type="date" id="bornOn" name="bornOn" placeholder="Date of birth">
+          <input type="date" id="bornOn" name="bornOn">
         </div>
         <div>
           <label for="favouriteColour">Favourite Colour</label>
@@ -50,7 +50,7 @@
         </div>
         <div>
           <label for="acceptsTerms">Do you accept the terms and conditions?</label>
-          <input type="checkbox" checked="unchecked" id="acceptsTerms" name="acceptsTerms" placeholder="Terms and Conditions">
+          <input type="checkbox" id="acceptsTerms" name="acceptsTerms">
         </div>
     </form>
   </body>
