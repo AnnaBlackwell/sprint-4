@@ -1,11 +1,11 @@
 Explain the difference between absolute and relative URLs. Give one reason why relative URLs might be better.
 
 An absolute url contains the full domain, would be coded like this:
-<a href= "http://website.com/page">
+&lt;a href= "http://website.com/page"&gt;
 Absolute urls can be used to link to internal or external pages.
 
 A relative url is abbreviated, and would be coded like this:
-<a href= /page>
+&lt;a href= /page&gt;
 Relative urls are used to link to internal pages in your website.
 
 Relative urls are faster and easier to code compared with absolute urls.
