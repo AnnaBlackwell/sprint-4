@@ -1,6 +1,6 @@
 What kind of thinking does fear and happiness cause?
 
--Fear and anxiety causes to you to focus (depth first).
+-Fear and anxiety cause to you to focus (depth first).
 
 -Happiness causes you to think more creatively (breadth first).
 
