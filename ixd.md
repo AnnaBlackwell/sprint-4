@@ -13,6 +13,7 @@ What does it mean to say that "the best interaction designs don’t exist"?
 Remind us again, what's an "affordance"? And what do you think a "bad affordance" might be? Can you think of any examples in the physical world?
 
 -Affordance is where an object's characteristics communicate how it should be used, e.g. links look like links, and buttons look like buttons.
+
 Examples of bad affordance would be:
 
   -buttons that are, or look to be inactive
@@ -25,4 +26,4 @@ Under what circumstance should interaction designers take great effort in making
 
 What do you think one of the hardest parts of being an interaction designer is? Do you think this applies to full-stack web developers as well?
 
--One difficult part about being an interaction designer is keeping up-to-date with the way the design industry changes. I think this does apply to full-stack web developers. 
+-One difficult part about being an interaction designer is keeping up-to-date with the way the design industry changes. I think this does apply to full-stack web developers.
