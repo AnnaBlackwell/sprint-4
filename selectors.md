@@ -22,7 +22,7 @@ div .classname
 
 -0111
 
-#idname .classname p
+/* #idname .classname p */
 
 -0031
 
